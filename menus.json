@@ -1,0 +1,155 @@
+[
+  {
+    "_id": {
+      "$oid": "5eee651f739f8c674fd736ee"
+    },
+    "name": "Masala Dosa",
+    "image": "Masala Dosa.jpg",
+    "price": "80",
+    "size": "veg"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6671a27a66807cf2bea3"
+    },
+    "name": "Chicken Curry(2 Pc)",
+    "image": "Chicken Curry(1 Pc).jpg",
+    "price": "110",
+    "size": "Non veg"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6692a27a66807cf2bea4"
+    },
+    "name": "Chicken Kadai",
+    "image": "Chicken Kadai.jpg",
+    "price": "135",
+    "size": "Non veg"
+  },
+  {
+    "_id": {
+      "$oid": "5eee66a5a27a66807cf2bea5"
+    },
+    "name": "Dal Makhni",
+    "image": "Dal Makhni.jpg",
+    "price": "105",
+    "size": "veg"
+  },
+  {
+    "_id": {
+      "$oid": "5eee66c4a27a66807cf2bea6"
+    },
+    "name": "Mushroom Masala ",
+    "image": "Mushroom Masala.jpg",
+    "price": "200",
+    "size": "veg"
+  },
+  {
+    "_id": {
+      "$oid": "5eee66cfa27a66807cf2bea7"
+    },
+    "name": "Paneer Butter Masala",
+    "image": "Paneer Butter Masala.jpg",
+    "price": "150",
+    "size": "veg"
+  },
+  {
+    "_id": {
+      "$oid": "5eee66eea27a66807cf2bea8"
+    },
+    "name": "Paneer Kadai (4Pcs)",
+    "image": "Paneer Kadai (4Pcs).jpg",
+    "price": "200",
+    "size": "veg"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea9"
+    },
+    "name": "Paneer Kadai (4Pcs)",
+    "image": "Paneer Kadai (4Pcs).jpg",
+    "price": "220",
+    "size": "veg"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea9"
+    },
+    "name": "Pepperoni",
+    "image": "pizza.png",
+    "price": "500",
+    "size": "medium"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea9"
+    },
+    "name": "Pepperoni",
+    "image": "pizza.png",
+    "price": "500",
+    "size": "medium"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea9"
+    },
+    "name": "Pepperoni",
+    "image": "pizza.png",
+    "price": "500",
+    "size": "medium"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea9"
+    },
+    "name": "Pepperoni",
+    "image": "pizza.png",
+    "price": "500",
+    "size": "medium"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea9"
+    },
+    "name": "Pepperoni",
+    "image": "pizza.png",
+    "price": "500",
+    "size": "medium"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea9"
+    },
+    "name": "Pepperoni",
+    "image": "pizza.png",
+    "price": "500",
+    "size": "medium"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea9"
+    },
+    "name": "Pepperoni",
+    "image": "pizza.png",
+    "price": "500",
+    "size": "medium"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea9"
+    },
+    "name": "Pepperoni",
+    "image": "pizza.png",
+    "price": "500",
+    "size": "medium"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea9"
+    },
+    "name": "Pepperoni",
+    "image": "pizza.png",
+    "price": "500",
+    "size": "medium"
+  }
+]
